@@ -1,0 +1,11 @@
+#infinite-list {
+  width: 800px;
+  height: 600px;
+  overflow: auto;
+  margin: 0 auto;
+  padding-right: 15px;
+}
+
+li {
+  padding: 10px;
+}
